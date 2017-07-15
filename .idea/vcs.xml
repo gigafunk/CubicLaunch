@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LauncherCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LauncherUICore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LauncherV3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MinecraftCore" vcs="Git" />
   </component>
 </project>
