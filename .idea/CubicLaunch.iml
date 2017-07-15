@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LauncherCore" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MinecraftCore" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LauncherV3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
